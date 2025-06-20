@@ -1,0 +1,40 @@
+.work-carousel-container {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 120px;
+  }
+  
+  .work-card {
+    color: white;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #000;
+    height: 50vh;
+  }
+  
+  .work-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #00c4cc; 
+  }
+  
+  .work-description {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #fff;
+  }
+  
+  .carousel .control-next.control-arrow, 
+  .carousel .control-prev.control-arrow {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .carousel .control-dots .dot {
+    background-color: #00c4cc;
+  }
+
+  .hero{
+    background-color: RGB(30, 31, 33);
+  }
+  

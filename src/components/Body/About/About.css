@@ -1,0 +1,40 @@
+/* Carousel container */
+.about-carousel-container {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 120px;
+}
+  
+/* About cards */
+.about-card {
+    color: white;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #000; /* Black background */
+    height: 50vh;
+}
+  
+/* Title styles */
+.about-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #00c4cc; /* Light blue color */
+}
+  
+/* Text styles */
+.about-text {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #fff;
+}
+  
+/* Carousel controls customization (optional) */
+.carousel .control-next.control-arrow, 
+.carousel .control-prev.control-arrow {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+  
+.carousel .control-dots .dot {
+    background-color: #00c4cc;
+}
