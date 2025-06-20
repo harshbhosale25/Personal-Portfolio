@@ -2,7 +2,7 @@ import React from "react";
 import "./Work.css"; // Import your CSS file for styling
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // Carousel styles
-import Topbar from "../Topbar";
+
 
 const Work = () => {
   return (
