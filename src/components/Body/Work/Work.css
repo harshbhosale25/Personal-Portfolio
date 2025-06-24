@@ -38,3 +38,20 @@
     background-color: RGB(30, 31, 33);
   }
   
+  .hero {
+  position: relative;
+  background-color: #111;
+  min-height: 100vh;
+  padding: 40px 20px;
+}
+
+.cursor {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  background-color: white;
+  z-index: 9999;
+  mix-blend-mode: difference;
+}
