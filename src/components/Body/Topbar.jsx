@@ -22,10 +22,19 @@ function Topbar() {
                 </NavLink>
                 <NavLink to="/contact">
                   <li>Contact</li>
-                  
                   </NavLink>
-                
+                    <li>
+                      <a 
+                        href="/HarshadBhosale_Developer_2yrs_Experience.pdf" 
+                         rel="noopener noreferrer" e
+                        target="_blank" 
+                        className="resume-btn"
+                      >
+                        View Resume
+                      </a>
+                    </li>  
             </ul>
+            
 
     </div>
     </>
