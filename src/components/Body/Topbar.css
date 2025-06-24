@@ -1,7 +1,7 @@
 .topbar{
     background-color: rgba(240, 248, 255, 0);
     height: 15vh;
-    width: 80%;
+    width: 90%;
     margin: 0px auto;
     display: flex;
     flex-direction: row;
@@ -20,4 +20,23 @@
 .topbar ul li{
     margin: 0px 20px;
     font-size: 1.2rem;
+}
+.resume-content {
+  padding: 40px;
+  color: white;
+  text-align: center;
+}
+
+.resume-btn {
+  padding: 10px 20px;
+  background-color: #fff;
+  color: #000;
+  border-radius: 30px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+.resume-btn:hover {
+  background-color: #eee;
+  transform: scale(1.05);
 }

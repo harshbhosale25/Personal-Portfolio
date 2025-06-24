@@ -23,20 +23,4 @@
     color: #00c4cc; /* Light blue color */
   }
   
-  /* Skill list styles */
-  .skill-list {
-    font-size: 1.2rem;
-    line-height: 1.8;
-    color: #fff;
-  }
-  
-  /* Carousel controls customization (optional) */
-  .carousel .control-next.control-arrow, 
-  .carousel .control-prev.control-arrow {
-    background-color: rgba(0, 0, 0, 0.5);
-  }
-  
-  .carousel .control-dots .dot {
-    background-color: #00c4cc;
-  }
-  
+ 

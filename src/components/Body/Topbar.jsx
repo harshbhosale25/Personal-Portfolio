@@ -26,7 +26,7 @@ function Topbar() {
                     <li>
                       <a 
                         href="/HarshadBhosale_Developer_2yrs_Experience.pdf" 
-                         rel="noopener noreferrer" e
+                         rel="noopener noreferrer" 
                         target="_blank" 
                         className="resume-btn"
                       >

@@ -3,7 +3,8 @@ import "./Work.css";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { motion } from "framer-motion";
-import Topbar from "./Topbar"; // assuming it's in the same folder
+import Topbar from '../Topbar';
+
 
 const Work = () => {
   // Cursor logic
